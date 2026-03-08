@@ -1,4 +1,6 @@
 # SE-506
-# output
+# 1 practical 
 
-<img width="450" height="263" alt="Screenshot 2025-12-28 182247" src="https://github.com/user-attachments/assets/653d91f1-85ad-4588-a2ee-352a85a9e29d" />
+<img width="652" height="137" alt="Screenshot 2026-03-08 125102" src="https://github.com/user-attachments/assets/3d5d82f9-0408-4490-aec9-fee87d4d34a3" />
+
+<img width="716" height="235" alt="Screenshot 2026-03-08 124242" src="https://github.com/user-attachments/assets/078ae5bd-93c5-4f92-8b4a-9be32e6d2c43" />
